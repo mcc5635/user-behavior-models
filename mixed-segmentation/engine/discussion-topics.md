@@ -1,5 +1,4 @@
 
-# Discussion Topics (10 mins)
 
 ## How to Test Out-of-Sample Fit and Robustness
 
